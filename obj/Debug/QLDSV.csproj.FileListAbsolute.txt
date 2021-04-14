@@ -1,0 +1,942 @@
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\QLDSV.exe.config
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\obj\Debug\QLDSV.csprojResolveAssemblyReference.cache
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\obj\Debug\QLDSV.frmLogin.resources
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\obj\Debug\QLDSV.Properties.Resources.resources
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\obj\Debug\QLDSV.csproj.GenerateResource.Cache
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\obj\Debug\QLDSV.exe.licenses
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\QLDSV.exe
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\QLDSV.pdb
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\DevExpress.Data.v20.1.dll
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\DevExpress.Utils.v20.1.dll
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\DevExpress.XtraBars.v20.1.dll
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\DevExpress.Data.v20.1.xml
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\DevExpress.Utils.v20.1.xml
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\DevExpress.XtraBars.v20.1.xml
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\obj\Debug\QLDSV.exe
+c:\users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\obj\Debug\QLDSV.pdb
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\DevExpress.Xpo.v20.1.dll
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\DevExpress.Xpo.v20.1.xml
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\obj\Debug\QLDSV.frmTaoTaiKhoan.resources
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\obj\Debug\QLDSV.Form1.resources
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\obj\Debug\QLDSV.frmInDSSV.resources
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\obj\Debug\QLDSV.frmInBangDiemThi.resources
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\obj\Debug\QLDSV.frmInBDMHoc.resources
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\obj\Debug\QLDSV.frmInBDTKet.resources
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\obj\Debug\QLDSV.frmInDSDHPhi.resources
+C:\Users\thien\onedrive\documents\visual studio 2015\Projects\QLDSV\QLDSV\obj\Debug\QLDSV.frmInPhieuDiem.resources
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\QLDSV.exe.config
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\obj\Debug\QLDSV.exe
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\obj\Debug\QLDSV.pdb
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\obj\Debug\QLDSV.csprojResolveAssemblyReference.cache
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\obj\Debug\QLDSV.Form1.resources
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\obj\Debug\QLDSV.frmInBangDiemThi.resources
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\obj\Debug\QLDSV.frmInBDMHoc.resources
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\obj\Debug\QLDSV.frmInBDTKet.resources
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\obj\Debug\QLDSV.frmInDSDHPhi.resources
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\obj\Debug\QLDSV.frmInDSSV.resources
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\obj\Debug\QLDSV.frmInPhieuDiem.resources
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\obj\Debug\QLDSV.frmLogin.resources
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\obj\Debug\QLDSV.frmTaoTaiKhoan.resources
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\obj\Debug\QLDSV.Properties.Resources.resources
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\obj\Debug\QLDSV.csproj.GenerateResource.Cache
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\obj\Debug\QLDSV.exe.licenses
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\QLDSV.exe
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\QLDSV.pdb
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\DevExpress.Data.v20.1.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\DevExpress.Utils.v20.1.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\DevExpress.Xpo.v20.1.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\DevExpress.XtraBars.v20.1.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\DevExpress.Office.v20.1.Core.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\DevExpress.Data.v20.1.xml
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\DevExpress.Xpo.v20.1.xml
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\DevExpress.XtraBars.v20.1.xml
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\T3_CSDLPhanTan\QLDSV\QLDSV\obj\Debug\QLDSV.frmXoaTK.resources
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\QLDSV.exe.config
+C:\Users\thien\Desktop\QLDSV\QLDSV\obj\Debug\QLDSV.csprojResolveAssemblyReference.cache
+C:\Users\thien\Desktop\QLDSV\QLDSV\obj\Debug\QLDSV.Form1.resources
+C:\Users\thien\Desktop\QLDSV\QLDSV\obj\Debug\QLDSV.frmInBangDiemThi.resources
+C:\Users\thien\Desktop\QLDSV\QLDSV\obj\Debug\QLDSV.frmInBDMHoc.resources
+C:\Users\thien\Desktop\QLDSV\QLDSV\obj\Debug\QLDSV.frmInBDTKet.resources
+C:\Users\thien\Desktop\QLDSV\QLDSV\obj\Debug\QLDSV.frmInDSDHPhi.resources
+C:\Users\thien\Desktop\QLDSV\QLDSV\obj\Debug\QLDSV.frmInDSSV.resources
+C:\Users\thien\Desktop\QLDSV\QLDSV\obj\Debug\QLDSV.frmInPhieuDiem.resources
+C:\Users\thien\Desktop\QLDSV\QLDSV\obj\Debug\QLDSV.frmLogin.resources
+C:\Users\thien\Desktop\QLDSV\QLDSV\obj\Debug\QLDSV.frmTaoTaiKhoan.resources
+C:\Users\thien\Desktop\QLDSV\QLDSV\obj\Debug\QLDSV.frmXoaTK.resources
+C:\Users\thien\Desktop\QLDSV\QLDSV\obj\Debug\QLDSV.Properties.Resources.resources
+C:\Users\thien\Desktop\QLDSV\QLDSV\obj\Debug\QLDSV.csproj.GenerateResource.Cache
+C:\Users\thien\Desktop\QLDSV\QLDSV\obj\Debug\QLDSV.exe.licenses
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\QLDSV.exe
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\QLDSV.pdb
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\DevExpress.Xpo.v20.1.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\DevExpress.Xpo.v20.1.xml
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\QLDSV\QLDSV\obj\Debug\QLDSV.exe
+C:\Users\thien\Desktop\QLDSV\QLDSV\obj\Debug\QLDSV.pdb
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\QLDSV.exe.config
+C:\Users\thien\Desktop\03122020\QLDSV\obj\Debug\QLDSV.exe
+C:\Users\thien\Desktop\03122020\QLDSV\obj\Debug\QLDSV.pdb
+C:\Users\thien\Desktop\03122020\QLDSV\obj\Debug\QLDSV.csprojResolveAssemblyReference.cache
+C:\Users\thien\Desktop\03122020\QLDSV\obj\Debug\QLDSV.Form1.resources
+C:\Users\thien\Desktop\03122020\QLDSV\obj\Debug\QLDSV.frmInBangDiemThi.resources
+C:\Users\thien\Desktop\03122020\QLDSV\obj\Debug\QLDSV.frmInBDMHoc.resources
+C:\Users\thien\Desktop\03122020\QLDSV\obj\Debug\QLDSV.frmInBDTKet.resources
+C:\Users\thien\Desktop\03122020\QLDSV\obj\Debug\QLDSV.frmInDSDHPhi.resources
+C:\Users\thien\Desktop\03122020\QLDSV\obj\Debug\QLDSV.frmInDSSV.resources
+C:\Users\thien\Desktop\03122020\QLDSV\obj\Debug\QLDSV.frmInPhieuDiem.resources
+C:\Users\thien\Desktop\03122020\QLDSV\obj\Debug\QLDSV.frmLogin.resources
+C:\Users\thien\Desktop\03122020\QLDSV\obj\Debug\QLDSV.frmTaoTaiKhoan.resources
+C:\Users\thien\Desktop\03122020\QLDSV\obj\Debug\QLDSV.frmXoaTK.resources
+C:\Users\thien\Desktop\03122020\QLDSV\obj\Debug\QLDSV.Properties.Resources.resources
+C:\Users\thien\Desktop\03122020\QLDSV\obj\Debug\QLDSV.csproj.GenerateResource.Cache
+C:\Users\thien\Desktop\03122020\QLDSV\obj\Debug\QLDSV.exe.licenses
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\QLDSV.exe
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\QLDSV.pdb
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.CodeParser.v20.1.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.DataAccess.v20.1.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.PivotGrid.v20.1.Core.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.RichEdit.v20.1.Export.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.Xpo.v20.1.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.XtraGauges.v20.1.Core.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.XtraReports.v20.1.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.XtraPivotGrid.v20.1.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.XtraCharts.v20.1.Extensions.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.Images.v20.1.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.DataAccess.v20.1.xml
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.PivotGrid.v20.1.Core.xml
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.Xpo.v20.1.xml
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.XtraGauges.v20.1.Core.xml
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.XtraReports.v20.1.xml
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.xml
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.xml
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.XtraPivotGrid.v20.1.xml
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\de\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\es\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ja\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ru\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\de\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\es\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ja\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ru\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\de\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\es\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\03122020\QLDSV\obj\Debug\QLDSV.RpInDSSV.resources
+C:\Users\thien\Desktop\03122020\QLDSV\obj\Debug\QLDSV.RpInBDThi.resources
+C:\Users\thien\Desktop\03122020\QLDSV\obj\Debug\QLDSV.RpInBDMHoc.resources
+C:\Users\thien\Desktop\03122020\QLDSV\obj\Debug\QLDSV.RpInPDiem.resources
+C:\Users\thien\Desktop\03122020\QLDSV\obj\Debug\QLDSV.RpInDSDHPhi.resources
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\QLDSV.exe.config
+C:\Users\thien\Desktop\05122020\QLDSV\obj\Debug\QLDSV.exe
+C:\Users\thien\Desktop\05122020\QLDSV\obj\Debug\QLDSV.pdb
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\QLDSV.exe
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\QLDSV.pdb
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.CodeParser.v20.1.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.DataAccess.v20.1.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.PivotGrid.v20.1.Core.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.RichEdit.v20.1.Export.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.Xpo.v20.1.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.XtraGauges.v20.1.Core.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.XtraReports.v20.1.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.XtraPivotGrid.v20.1.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.XtraCharts.v20.1.Extensions.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.Images.v20.1.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.DataAccess.v20.1.xml
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.PivotGrid.v20.1.Core.xml
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.Xpo.v20.1.xml
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.XtraGauges.v20.1.Core.xml
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.XtraReports.v20.1.xml
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.xml
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.xml
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.XtraPivotGrid.v20.1.xml
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\de\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\es\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ja\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ru\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\de\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\es\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ja\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ru\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\de\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\es\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\05122020\QLDSV\obj\Debug\QLDSV.csprojResolveAssemblyReference.cache
+C:\Users\thien\Desktop\05122020\QLDSV\obj\Debug\QLDSV.Form1.resources
+C:\Users\thien\Desktop\05122020\QLDSV\obj\Debug\QLDSV.frmInBangDiemThi.resources
+C:\Users\thien\Desktop\05122020\QLDSV\obj\Debug\QLDSV.frmInBDMHoc.resources
+C:\Users\thien\Desktop\05122020\QLDSV\obj\Debug\QLDSV.frmInBDTKet.resources
+C:\Users\thien\Desktop\05122020\QLDSV\obj\Debug\QLDSV.frmInDSDHPhi.resources
+C:\Users\thien\Desktop\05122020\QLDSV\obj\Debug\QLDSV.frmInDSSV.resources
+C:\Users\thien\Desktop\05122020\QLDSV\obj\Debug\QLDSV.frmInPhieuDiem.resources
+C:\Users\thien\Desktop\05122020\QLDSV\obj\Debug\QLDSV.frmLogin.resources
+C:\Users\thien\Desktop\05122020\QLDSV\obj\Debug\QLDSV.frmTaoTaiKhoan.resources
+C:\Users\thien\Desktop\05122020\QLDSV\obj\Debug\QLDSV.frmXoaTK.resources
+C:\Users\thien\Desktop\05122020\QLDSV\obj\Debug\QLDSV.Properties.Resources.resources
+C:\Users\thien\Desktop\05122020\QLDSV\obj\Debug\QLDSV.RpInBDMHoc.resources
+C:\Users\thien\Desktop\05122020\QLDSV\obj\Debug\QLDSV.RpInBDThi.resources
+C:\Users\thien\Desktop\05122020\QLDSV\obj\Debug\QLDSV.RpInBDTKet.resources
+C:\Users\thien\Desktop\05122020\QLDSV\obj\Debug\QLDSV.RpInDSDHPhi.resources
+C:\Users\thien\Desktop\05122020\QLDSV\obj\Debug\QLDSV.RpInDSSV.resources
+C:\Users\thien\Desktop\05122020\QLDSV\obj\Debug\QLDSV.RpInPDiem.resources
+C:\Users\thien\Desktop\05122020\QLDSV\obj\Debug\QLDSV.csproj.GenerateResource.Cache
+C:\Users\thien\Desktop\05122020\QLDSV\obj\Debug\QLDSV.exe.licenses
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\QLDSV.exe.config
+C:\Users\thien\Desktop\final\QLDSV\obj\Debug\QLDSV.exe
+C:\Users\thien\Desktop\final\QLDSV\obj\Debug\QLDSV.pdb
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\QLDSV.exe
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\QLDSV.pdb
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.CodeParser.v20.1.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.DataAccess.v20.1.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.PivotGrid.v20.1.Core.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.RichEdit.v20.1.Export.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.Xpo.v20.1.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.XtraGauges.v20.1.Core.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.XtraReports.v20.1.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.XtraPivotGrid.v20.1.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.XtraCharts.v20.1.Extensions.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.Images.v20.1.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.DataAccess.v20.1.xml
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.PivotGrid.v20.1.Core.xml
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.Xpo.v20.1.xml
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.XtraGauges.v20.1.Core.xml
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.XtraReports.v20.1.xml
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.xml
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.xml
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.XtraPivotGrid.v20.1.xml
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\de\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\es\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ja\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ru\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\de\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\es\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ja\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ru\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\de\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\es\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\thien\Desktop\final\QLDSV\obj\Debug\QLDSV.csprojResolveAssemblyReference.cache
+C:\Users\thien\Desktop\final\QLDSV\obj\Debug\QLDSV.Form1.resources
+C:\Users\thien\Desktop\final\QLDSV\obj\Debug\QLDSV.frmInBangDiemThi.resources
+C:\Users\thien\Desktop\final\QLDSV\obj\Debug\QLDSV.frmInBDMHoc.resources
+C:\Users\thien\Desktop\final\QLDSV\obj\Debug\QLDSV.frmInBDTKet.resources
+C:\Users\thien\Desktop\final\QLDSV\obj\Debug\QLDSV.frmInDSDHPhi.resources
+C:\Users\thien\Desktop\final\QLDSV\obj\Debug\QLDSV.frmInDSSV.resources
+C:\Users\thien\Desktop\final\QLDSV\obj\Debug\QLDSV.frmInPhieuDiem.resources
+C:\Users\thien\Desktop\final\QLDSV\obj\Debug\QLDSV.frmLogin.resources
+C:\Users\thien\Desktop\final\QLDSV\obj\Debug\QLDSV.frmTaoTaiKhoan.resources
+C:\Users\thien\Desktop\final\QLDSV\obj\Debug\QLDSV.frmXoaTK.resources
+C:\Users\thien\Desktop\final\QLDSV\obj\Debug\QLDSV.Properties.Resources.resources
+C:\Users\thien\Desktop\final\QLDSV\obj\Debug\QLDSV.RpInBDMHoc.resources
+C:\Users\thien\Desktop\final\QLDSV\obj\Debug\QLDSV.RpInBDThi.resources
+C:\Users\thien\Desktop\final\QLDSV\obj\Debug\QLDSV.RpInBDTKet.resources
+C:\Users\thien\Desktop\final\QLDSV\obj\Debug\QLDSV.RpInDSDHPhi.resources
+C:\Users\thien\Desktop\final\QLDSV\obj\Debug\QLDSV.RpInDSSV.resources
+C:\Users\thien\Desktop\final\QLDSV\obj\Debug\QLDSV.RpInPDiem.resources
+C:\Users\thien\Desktop\final\QLDSV\obj\Debug\QLDSV.csproj.GenerateResource.Cache
+C:\Users\thien\Desktop\final\QLDSV\obj\Debug\QLDSV.exe.licenses
+C:\Users\thien\Desktop\final\QLDSV\obj\Debug\QLDSV.formNhapLop.resources
+C:\Users\thien\Desktop\final\QLDSV\obj\Debug\QLDSV.formNhapMH.resources
+C:\Users\thien\Desktop\final\QLDSV\obj\Debug\QLDSV.formNhapSV1.resources
+C:\Users\thien\Desktop\final\QLDSV\obj\Debug\QLDSV.formNhapDiem.resources
+C:\Users\thien\Desktop\final\QLDSV\obj\Debug\QLDSV.formDongHP.resources

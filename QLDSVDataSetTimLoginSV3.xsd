@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="QLDSVDataSetTimLoginSV3" targetNamespace="http://tempuri.org/QLDSVDataSetTimLoginSV3.xsd" xmlns:mstns="http://tempuri.org/QLDSVDataSetTimLoginSV3.xsd" xmlns="http://tempuri.org/QLDSVDataSetTimLoginSV3.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="QLDSVConnectionString02" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="QLDSVConnectionString02 (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.QLDSV.Properties.Settings.GlobalReference.Default.QLDSVConnectionString02" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="V_TIMLOGINTableAdapter" GeneratorDataComponentClassName="V_TIMLOGINTableAdapter" Name="V_TIMLOGIN" UserDataComponentName="V_TIMLOGINTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QLDSVConnectionString02 (Settings)" DbObjectName="QLDSV.dbo.V_TIMLOGIN" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT MAGV FROM dbo.V_TIMLOGIN</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="MAGV" DataSetColumn="MAGV" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="QLDSVDataSetTimLoginSV3" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="QLDSVDataSetTimLoginSV3" msprop:Generator_UserDSName="QLDSVDataSetTimLoginSV3">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="V_TIMLOGIN" msprop:Generator_TableClassName="V_TIMLOGINDataTable" msprop:Generator_TableVarName="tableV_TIMLOGIN" msprop:Generator_TablePropName="V_TIMLOGIN" msprop:Generator_RowDeletingName="V_TIMLOGINRowDeleting" msprop:Generator_RowChangingName="V_TIMLOGINRowChanging" msprop:Generator_RowEvHandlerName="V_TIMLOGINRowChangeEventHandler" msprop:Generator_RowDeletedName="V_TIMLOGINRowDeleted" msprop:Generator_UserTableName="V_TIMLOGIN" msprop:Generator_RowChangedName="V_TIMLOGINRowChanged" msprop:Generator_RowEvArgName="V_TIMLOGINRowChangeEvent" msprop:Generator_RowClassName="V_TIMLOGINRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MAGV" msprop:Generator_ColumnVarNameInTable="columnMAGV" msprop:Generator_ColumnPropNameInRow="MAGV" msprop:Generator_ColumnPropNameInTable="MAGVColumn" msprop:Generator_UserColumnName="MAGV">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:V_TIMLOGIN" />
+      <xs:field xpath="mstns:MAGV" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
